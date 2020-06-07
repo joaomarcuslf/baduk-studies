@@ -1,0 +1,71 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+;B[pd]
+;W[dp]
+;B[pq]
+;W[dd]
+;B[qk]C[So, while playing as White, the Cinese Fuseki there is no weakness for human. AlphaGo has an possible solution, but is far more complex
+to put here. The bes way to deal with the Chinese Fuseki is to ignore it for now and play somewhere else, like the following.]
+(;W[nc]C[This is a simple Joseki to play out.]
+;B[qf]
+;W[pb]
+;B[qc]
+;W[kc]LB[cn:B][fq:A]C[After this Black will usually play at A trying to expand his own framework, since this is the
+most obvious and beneficial direction of play for him. 
+
+If Black dislikes the idea of having a framework vs framework game, then he can approach White’s corner from the opposite
+side, at B. It is a valid strategy, but it happens rarely compared to A.]
+;B[fq]
+;W[cn]
+;B[jp]
+;W[cf]LB[jd:D][dj:C][fo:B][po:A]C[Approaching at the corner from the correct direction gives Black the chance to play the
+Kobayashi fuseki as well, reinforcing the trap at his lower right corner. After such a move
+
+White usually plays C14 to defend his own corner and then the opening is drawing to an
+end. 
+
+Both players seem to have one half of the board and their frameworks must eventually clash.
+
+Black can play at various places:
+
+He can play at A to take the last corner of the
+game.
+
+He can play at B to cover the weak point of the
+Kobayashi fuseki.
+
+He can play the invasion at C to split White’s
+stones and disrupt White’s framework.
+
+Or he can play at D to reduce White’s influ-
+ence])
+(;W[mq]C[Another idea is to approach the lower right corner, but in a non-standard way,]
+;B[po]C[Usually Black will just enclose the corner with Q5 and take the territory as profit, 
+since the trap he tried to set was evaded and would no longer work.]
+;W[jq]LB[fc:A][nc:B][dj:D][cn:C]C[White is a standard two space jump designed to give a base to White’s group. 
+
+After that, it is Black’s turn to choose what will happen on the board,
+Black has sente and four choices:
+
+Choice A is creating a framework vs framework game like in previous example and it is
+the correct direction of play, trying to make all of Black’s stones work together.
+
+Choice B secures the corner and focuses on Black gaining most of the right side.
+
+Choices C and D are designed to disrupt the creation of large frameworks and split the
+board in smaller groups]
+;B[fc]
+;W[cf]
+;B[db]
+;W[cc]
+;B[ic]LB[qc:C][dj:B][oj:D][pj:E][cn:A]C[The most usual choice is to create a framework, so assuming that the players use one of
+the balanced joseki, the board will look like this, with White having sente.
+
+Choices A and B strengthen White’s framework and gives sente back to Black and gives
+him the responsibility to decide when the two frameworks will clash and how.
+
+Choice C is a standard corner invasion. White gets the corner and breaks into Black’s framework while keeping
+sente. It is a very tempting choice and many play it eagerly.
+
+Choices D and E are reductions.]))
