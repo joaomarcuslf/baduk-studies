@@ -1,0 +1,307 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]LB[cd:B][dd:A]C[This is my Joseki Dictionary, I hope this help someone other than myself.
+
+I began studying those josekis with the book "A Go guide by a beginner" by Haris Kapolos. I mix some of its comments with some of mine, after
+some time, I hope to fill more with my own views.
+
+A is a 4-4 Starting point
+B is a 3-4 Starting point]
+(;B[dd]LB[cc:B][fc:A]C[This is one of the most common starting move, and focus on influence more than territory. Also called Hoshi.
+
+A is Knight approach
+B is 3-3 invasion]N[4-4]
+(;W[fc]LB[cc:A][ec:B][hc:F][ic:G][fd:E][hd:H][id:I][cf:C][df:D]C[A and B aim at taking up the corner territory.
+
+C, D and E aim at developing the left side, as well as keeping half the corner
+
+F, G, H and I are called pincers because their main goal is to focus on the top side and deprive the Black stone 
+of the possibility of making a base and developing.
+
+By far the most usual responses to the knight’s move approach are C and F.]N[Knight Approach]
+(;B[cc]
+;W[fe]
+;B[dg]LB[cf:B][df:A][cg:C]C[Not the best response, because it gives a nice result for the player that makes the approach.
+
+White 3 is almost a certainty. 
+
+Now White can play on the other side of the Black stones since he will be able to connect his stones, 
+so Black needs to respond. Blackcan play A, B or C, but all those moves are too passive, 
+compared to move 4 on the diagram, which secures the corner territory and defends as much of the side as possible.
+
+A two space extension might seem too large, but Black is safe...]
+;W[jd]TR[aa][ba][ab][bb][ac][bc][ad][bd][cd][ae][be][ce][af][bf][cf][ag][bg][cg]SQ[ga][ha][ia][ja][gb][hb][ib][jb][gc][hc][ic][jc][gd][hd][id][ge][he][ie]C[White gets to open his own wings, so since he is shut out
+from the top left corner and side, he extends with move 5,
+from both of his stones with a very large knight’s move.
+
+That is a stable move when played on the side of the board
+and Black cannot invade in White’s area, in the same manner 
+White couldn’t break into Black’s area. 
+
+Black might be thinking that he got the best deal, but if we were to actually
+count the points that these moves seem to have secured for each player, 
+we will see that they are practically the same!
+
+What is different is the shape and the whole board situation. Usually White’s shape is now easier to expand from, 
+assuming that he approached from the right direction.])
+(;B[ec]C[This move is aiming to give a nice result in the corner, but it leaves a lot of defects open for a counter-attack later on. This makes it being played when the defender has another helping stone.]
+;W[fd]
+;B[cf]
+;W[jc])
+(;B[cf]C[This move is aiming to create a balanced result where both players get nearly
+half of everything they want and the only big advantage for the player who was
+approached is that he now gets sente and the ability to gain the upper hand
+elsewhere.
+
+The small knight’s move response is one of the smallest, easiest and balanced joseki in the
+game. Not only does it give a balanced result to both players, but it is also forgiving enough in case a player
+does not complete all the moves of the joseki.]
+(;W[db]LB[cc:A]C[Most common response, it Aims to attack point A.]
+;B[cc]LB[ic:A][jc:D][id:B][jd:C]C[White wants to avoid getting surrounded, so he cannot
+afford to let Black play any move around A, B, C, or D,
+so White usually plays in one of those points, with A and
+B being the most safe and thus the most common choices
+that conclude the joseki.]
+(;W[ic])
+(;W[kd]LB[ic:A][id:B][jd:C]C[For example, playing on the side star point seems to be a
+faster and more powerful move, but it has three weak
+points for invasion at A, B and C.]))
+(;W[cc]C[Not a good response.]
+;B[dc]
+;W[db]
+;B[eb]
+;W[cb]
+;B[ec]C[If White jumps into the 3-3 point, he gets immediately separated from his initial stone and
+Black’s knight’s move at 2 is in the perfect place to intercept White’s expansion.]))
+(;B[df]C[This move has the exact same idea behind it like the Knight’s move response(C),
+but it gives more emphasis to the center instead of the corner. Indeed most of the
+variations we just analysed for the Knight’s move response could remain the same,
+apart from the fact that now White can threaten to attack Black’s formation directly.]
+;W[db]
+;B[cc]
+;W[ic]LB[be:A][cg:B][ch:D][ck:C]C[A, B, C, D are possible weakness of this formation.
+
+The one space jump response seems inferior to the Knight’s move response, on an empty
+board. The only time it is more advantageous is when we already have some stones on the side we try to
+jump towards. Those help us cover the one space jump response main weakness, which is the 3rd line at-
+tack we analysed. If White has a stone around the star point in that side, then this joseki is better than the
+Knight’s move response. If not then you should avoid playing it or strive to exploit it.])
+(;B[fd]LB[cc:B][gd:A]SQ[ab][ac][bc][ad][bd][cd][ae][be][ce][de][ee][af][bf][cf][df][ef][ag][bg][cg][dg][eg]C[This move is aiming to keep the corner as well as expand towards the side.
+This is a very lofty goal, so it is no surprise that it is a move that can be played only
+if we have an extra stone to help us, just like with the one space extension
+
+Black attaches on the White stone to apply the most pressure, in order to defend the side and
+most of the corner. White can play the hane at A or dive for the corner at B, with A being the most usual
+move.]
+;W[gd]LB[fe:A]C[Once White makes the hane, Black needs to help his stone and avoid the atari at A. The
+reason why we should be careful of attaching to other stones is that we put our stone in danger of getting
+surrounded.]
+;B[fe]LB[cc:D][dc:C][ec:A][ge:B]C[White wants to protect his own weak point at the square mark with either A or B. White can
+also choose to leave it unprotected and go for the corner with C or D. 
+
+The most usual choice is A since it is the safest]
+;W[ec]LB[dc:A][ge:B]C[In which case now it is Black’s turn to decide what he wants. Black can defend his corner
+and side with A or go for the side and center with B. Choosing B is rare after investing all these moves to
+protect the corner.]
+;B[dc]LB[hc:A][ic:B][jc:C][ge:D]C[White wants to expand now, while still protecting his cutting point so A, B, C and D are the
+obvious moves towards the two directions left for White to expand. Choice B is a usual choice, 
+as a concession between the safe A and the bolder C.
+]
+;W[ic]LB[df:A]TR[ed]C[Black is left with a cutting point in the marked spot. Black could play there, but it is a bad shape (two empty triangles) that just defends, so the table shape at A is a better move that protects the cut
+and expands at the same time.]
+;B[df]LB[ge:A]C[Now the joseki is complete with Black 8 and things seem to
+be fairly good for Black. He got most of the corner and there
+is little White can do to break up Black’s formation and he has
+the ability to expand on the left side or the center side at A.
+White, on the other hand, got some points on the top side and
+he can keep expanding towards the right side or go out in the
+center at A.
+
+The point at A is a central point of focus for both players, so
+sometimes you might see either one of them try to play there
+as soon as possible.
+
+
+])
+(;B[hc]LB[cc:A][fe:B]C[This move is aiming to emphasize the side from which your opponent is trying
+to approach you. It gives your opponent the choice to either take the corner and give
+up the side from which he originally approached, or give up approaching the corner
+and focus on that side as well. The first choice is the most effective for the person
+trying to approach, but sometimes the side is so important that he needs to stop the
+approach and defend the side.
+
+After Black’s pincer at move 2, White can either invade the corner at A or jump out at B.]
+;W[cc]
+;B[dc]LB[cd:A]C[if the left side is more important, but the most reasonable choice
+is move 4, which splits the White stones]
+;W[cd]LB[ce:B][de:A]C[White 6 tried to extend the stones and create a base in the corner. Black can either extend at A or hane at B, 
+like in the joseki in 3-3 invasion joseki, but in this case, due to the White 2 the hane is a mistake.]
+;B[de]
+;W[db]LB[eb:A]C[After Black extends, White 8 uses his move 1 to threaten to connect underneath Black’s stones. 
+
+Black, of course cannot allow that to happen so playing at A is a certain move without any other
+practical alternatives.]
+;B[eb]
+;W[cb]
+;B[ec]LB[bf:B][cf:A]C[Black 9 defends and White 10 connects White’s group. Black 11 also connects Black’s
+stones and now White can easily make two eyes and live in the corner by either playing A or B.]
+;W[cf]
+;B[eg]
+;W[cg]C[If White plays the more aggressive choice in move 11, Black usually creates a large wall
+with move 12, while minimizing any chances of White’s stone 1 to run away later. Move 13
+solidifies White’s group concluding the joseki.]))
+(;W[cc]LB[dc:B][cd:A]TR[ec][fc][ed][fd][ce][de][cf][df]C[When White plays 1, Black can either choose A or B, 
+depending on which marked side he wants to defend and develop.]N[3-3 Invasion]
+;B[cd]
+;W[dc]LB[ec:A][fc:B]TR[ce][de][ee][cf][df][ef]C[Usually Black chooses the side which is facing towards the corner
+which he has stones in. Black can now choose A or B. 
+
+Choice A is the most usual joseki.
+Choice B is designed to take sente.]
+;B[ec]
+;W[eb]
+;B[fc]
+;W[fb]
+;B[gc]CR[ed]LB[dh:A][eh:C][di:B][ei:D]TR[de][ee][fe][ge][cf][df][ef][ff][gf][cg][dg][eg][fg][gg]SQ[ba][ca][da][ea][cb][db]C[White’s only viable choice is to keep
+going at 5 and extend again with 7 when Black
+plays the obvious moves at 6 and 8 to keep White
+low while protecting his own cutting point at the
+O marked spot. Now White is alive, so he can play
+9 away at A, B, C or D to reduce Black’s influence and threaten the marked cutting point.]))
+(;B[cd]LB[ec:B][fc:C][ed:A][fd:D][cf:E][cg:F]C[The other most popular move in the opening is playing in the 3-4 point, also called komoku. This
+choice mainly focus on territory. 
+
+Some thought on the whole board situation and the direction of play is needed and even from the
+first moves we are forced to think about what we want to do on the board and where.
+
+A and B are the most popular approaches with dozens of variations
+and joseki springing from them, since they are moves that have been
+around for thousands of years.
+
+C and D are wider and safer ways to approach the 3-4 stone in case
+we want our approach to be more flexible.
+
+E and F are moves that are chosen when we want to avoid approach-
+ing the 3-4 point from its usual side, at all costs.]N[3-4]
+;W[ed]LB[ec:A][gc:H][dd:F][gd:I][hd:B][ee:G][cf:D][df:C][cg:E]C[For this response, we have a great number of variations>
+
+A, F and G aim at starting a fight and usually aim at
+taking the corner territory.
+
+C, D and E are peaceful options that aim at developing
+the left side, as well as keeping part of the corner, with-
+out engaging the approaching stone
+
+B, H and I are the most usual pincers and their main
+goal, just like before, is to focus on the top side and de-
+prive the Withe to.
+
+Comment for the pincers, when the board is empty, it is very strong response for the defender, the attacker should be ready for this response.]N[One space jump]
+(;B[ec]LB[fc:A][dd:C][fd:B]C[After the White's approach, Black responds with Knight approach.
+
+On this scenario, White can either pressure black on E-17 by reducint it's liberties with A, or Indirect attacking E-17 with B or C.]
+;W[fc]LB[eb:B][dc:A][dd:C][fd:D]C[Black cannot ignore White move, because it can become an atari, so moves like C or D are not good, and A and B have the same idea of strengthen Black's corner.]
+;B[dc]LB[fd:A][gd:B]C[After that, White has an cutting point at A, he can protect with A or B.
+
+B can create more space in future moves.]
+;W[gd]LB[cf:A][df:B]C[A focus on territory
+B focus on influence]
+;B[cf]LB[jc:B][jd:A]C[Like Black had before, White next moves can either focus on territory with B, or on influence with A.
+
+This is a really fair Joseki, with Black having the corner, and the possibility to extend on the side, and White has a nice moyo potential.
+
+If white had a helping stone on the side it approached, it would create and splendid result, but even without it, it is a fair result.])
+(;B[hd]LB[cc:A][ce:E][ef:B][dg:D][eg:C]C[This move is very common in the game and you should expect to encounter it;
+
+It is a response that is viewed as very annoying for the player who approaches and 
+it is used in the Kobayashi fuseki. 
+
+The main problem created by this response is that the defending
+stone is standing exactly on the spot that the approaching player initially hoped to
+develop, creating a very interesting variation.
+
+After the pincer, White cannot really extend or develop towards that side for the time being. 
+His stone is now weak and without a base so, before White can deal with Black’s move at the pincer,
+he needs to strengthen his own stone. For that exact reason, A is not the best joseki, but, 
+despite that, it is a very common move.
+
+White’s most effective choices for that goal are B, C, D and E.
+
+Choices B, C and D are jumps that aim to give more space to White’s stone so that he can launch an attack to Black's pincer.
+
+Choice E is usually played when White has a favorable ladder and it leads to joseki that has so many variations that 
+it has the illustrious name the “magic sword of Muramasa”.]
+(;W[cc]
+;B[bc]C[Black is threatening to atari the White stone and defends the
+corner.]
+;W[dc]C[White extends to avoid the atari threat and to connect all his
+stones.]
+;B[be]LB[gc:B][ef:A]C[Those are natural responses, or obvious responses.
+
+Black is stabilizing Black’s group making it alive and giving it the ability to expand towards the bottom side.
+
+Now White can either jump at A or live at B...
+
+But both choices are not very good for White. 
+
+If White tries to live with B, he only has a small area, while Black is
+expanding in both sides and can still harass and threaten White’s group later.
+
+If White jumps, now Black has a stable corner from which to expand and can jump all the way to
+D-13. 
+
+White still has no eyes and Black’s stone at H-16 is still a thorn at his side.]
+(;W[gc]
+;B[hc]TR[ib][jb][ac][ic][jc][ad][bd][id][jd][ae][af][bf][ag][bg]SQ[da][ea][fa][db][eb][fb])
+(;W[ef]
+;B[dg]TR[ac][ad][bd][ae]))
+(;W[ef]LB[cf:A][cg:B]C[White chooses to jump out first in order to threaten to get away from the pincer from either side.
+
+Bllack must defend his corner stone first since Black’s stone at H-16 is still very flexible, but a corner stone cannot
+be left without help since its proximity with the edge of the board make it less flexible than a side stone. 
+
+So, Black has to jump as well and follow White. 
+Both A and B are possible, but A is more stable and safe as a choice, in order to strengthen the corner and the left side.]
+;B[cf]
+;W[eh]
+;B[ch]LB[cc:A][jd:C][kd:B]C[After Black jumps, White repeats the one space jump with exactly the same idea in mind. 
+
+If Black ignores him, White can get away from both sides.
+
+Black has the same problems as before and he has to defend the corner and the left side at the same time,
+so he jumps again.
+
+Now White has three choices, A, B and C.
+
+Choice A aims at the corner, but is not considered enough of a threat now that Black jumped twice, so White can ignore it and play a move to strengthen his stone at H-16.
+
+So, White usually plays either B or C to pincer the Black stone against his wall and profit by attacking Black’s
+weak stone]))
+(;B[df]CR[jd]LB[cc:A][ef:B]C[This response is very peaceful, it avoids fighting and complicated sequences. Usually getting an balanced result.
+
+For this response, we have A and B.
+
+B is better if white has and helping stone at the side it approached, like where the circle is.
+
+The knight’s move extension is a peaceful joseki choice to settle the corner without many
+complications. When used in normal situations it is very balanced, but when the defending player has
+other stones nearby to help him, then it can become a trap for the approaching player.]
+(;W[cc]LB[bc:A][dc:B]C[After this response, black can either keep the peaceful nature of the joseki with A, or change drastically with B and be more aggressive. Usually A is taken.]
+;B[bc]
+;W[dc]LB[bb:B][hc:D][hd:C][be:A]C[Black Hane and White Nobi to defend C17.
+
+From now on Black can either aim the corner with A or B, or pincer White to take his base away with C and D.]
+(;B[be]
+;W[hc]C[This is the safest choice.])
+(;B[bb]
+;W[hc]TR[be]C[This choice leave an area for White to explore later on.])
+(;B[hd]
+;W[bb]LB[gc:B][bd:A]C[This pincer is complicated for beginners so it is usually avoided, Black has to choose either to protect in A and givind B for the opponent, or push at B and gives A for opponent.]))
+(;W[ef]
+;B[dg]
+;W[eg]
+;B[dh]
+;W[eh]
+;B[di]
+;W[fj]
+;AW[jd]))))
