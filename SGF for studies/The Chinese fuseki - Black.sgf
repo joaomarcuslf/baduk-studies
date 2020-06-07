@@ -1,0 +1,48 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]C[The Chinese fuseki is another very popular fuseki whose main goal is rapid
+expansion and creating a trap with a lightly protected 3-4 corner.
+
+On the starting point of each Fuseki, will be marked A where the trap is.]
+;B[pd]
+;W[dp]LB[qp:B][pq:A]C[A is for Original and High Fuseki
+B is for Mini and Micro Fuseki]
+(;B[pq]
+;W[dd]LB[pk:B][qk:A]C[A is for Original
+B is for High]
+(;B[qk]LB[po:A]N[Original Chinese Fuseki]
+;W[po]TR[ql][qm][qn]C[As we can see, Whit may choose the One space approach, which is very common for 3-4. But,
+in this case White stone is almost already pincered.
+
+The stone in R9 is limiting White's ability to make a base from a two space jump.]
+;B[qo]
+;W[qn]
+;B[qp]
+;W[pn]
+;B[nq]LB[ok:B][nn:A]C[It is White’s turn. He should have been playing towards the right
+side next, but now the Black stone is cutting his development there, so White can either
+jump away at A or try the right side anyway with B. 
+
+Meanwhile Black secured a very large corner and White’s group doesn’t have a base yet.
+
+Both choices are bad for White, compared to the result Black gets.]
+(;W[nn]C[If White jumps]
+;B[ok]LB[ln:A]SQ[pi][qi][ri][pj][qj][rj]C[Black follows that jump and now Black is developing the right side as well, while White still has no base and
+will have to jump again at A to be safe. Black is expected to keep chasing and harassing that White group
+and gaining points without much trouble.])
+(;W[ok]C[If White goes for the right side.]
+;B[pi]
+;W[nn]
+;B[ni]
+;W[mk]TR[nl][ol][nm][om]SQ[rp][sp][qq][rq][sq][or][pr][qr][rr][sr][os][ps][qs][rs][ss]C[If Black plays passively and lets White make some shape, 
+the result is not good for White, compared to the result Black gets out of these exchanges.
+
+White is now safer, but Black’s development is also wider and worth more than White’s weak group.]))
+(;B[pk]LB[po:A]N[High Chinese Fuseki]))
+(;B[qp]
+;W[dd]
+;B[fq]
+;W[cn]LB[kq:A][lq:B]C[A is for Mini
+B is for Micro]
+(;B[kq]LB[np:A]N[Mini Chinese Fuseki])
+(;B[lq]LB[op:A]N[Micro Chinese Fuseki])))
