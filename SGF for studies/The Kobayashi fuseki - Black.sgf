@@ -1,0 +1,72 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+;B[pd]
+;W[dp]
+;B[pq]
+;W[dd]
+;B[fq]
+;W[cn]
+;B[jp]LB[pn:C][qn:D][po:A][qo:B]C[The Kobayashi fuseki which was invented by the Japanese professional player Kobayashi Koichi 9-dan.
+
+All the moves played furing this fuseki looks very normal.
+
+But this last move is the trick for Kobayashi fuseki, it stands in the right place for many josekis for the 3-4 approach.
+
+If White plays at A or B, it will become an trap for White if it doesn't know the fuseki.
+
+If the White player knows the fuseki it will play at C or D which is a small victory for Black as it already pushed White back.]
+;W[po]N[One space approach]
+(;B[pl]N[Pincer response]
+(;W[no]C[In this example, White will choose a simple joseki to play.]
+;B[nq]
+;W[lo]
+;B[lq]
+;W[pi]LB[ml:F][nl:E][mm:A][nm:B][mn:C][on:D]C[Once White does the regular approach, Black immediately pincers White’s stone with a two space pincer.
+
+If White chooses to follow the joseki blindly he finds himself in this situation.
+
+In the normal joseki, Whit's stones would have created a wall and White at Q11 would have applied pressure to the lonely Q8.
+
+Black would in the normal joski do somethin to protec White, but as white should be strong enough, it would be hard.
+
+Bu know, K4 is in Whit's way, and Brack will be able to protect Q8 while attacking Whit's group, and probably kill it.]
+;B[nl]C[For example, if black just One space jump here, which is the safest and non-treatning move here.]
+;W[ml]
+;B[nk]
+;W[mk]
+;B[nj]
+;W[mj]C[In this example, Black has an wonderful territory on the bottom and White will be forced to live in small groups, if it can live.
+
+The fuseki was a success!])
+(;W[mp]C[In this example, White will choose a complex joseki to play.]
+;B[oo]
+;W[on]
+;B[no]
+;W[pp]
+;B[nq]
+;W[qq]
+;B[pr]
+;W[qn]
+;B[pm]
+;W[pn]
+;B[rl]
+;W[nn]
+;B[mo]C[In the normal Joseki, White would have an balanced resuld, but K4 made the N4 move desperately alone, and almost dead.]))
+(;B[np]C[In this variation, Black won't be as aggressive as the pincer is
+
+This kind of peaceful variation is the only way Whit has to get a semi-balanced result.]
+;W[qq]
+;B[qr]
+;W[qp]
+;B[or]
+;W[ql]LB[fc:C][qf:B][qj:A][fo:D]C[Black almost never does that, since the very point of the Kobayashi fuseki is to be aggressive on the
+approaching stone, but even if White finds an opponent so accommodating, notice that the marked stone,
+once again, turns the joseki in favour of Black and that Black also has sente. 
+
+Now Black can either play:
+
+A to keep up the pressure
+B to enclose a corner
+C to approach a corner and expand 
+D to enlarge his framework. Black is not unhappy with the result, even in this case.]))

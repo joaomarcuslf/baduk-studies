@@ -1,0 +1,42 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+;B[pd]
+;W[dp]
+;B[pq]
+;W[dd]
+;B[fq]
+;W[cn]
+;B[jp]C[The Kobayashi fuseki does have weaknesses and we should avoid the trap while preparing to exploit those weaknesses in the future.]
+;W[qn]
+;B[po]
+(;W[rp]
+;B[pn]
+;W[qm]
+;B[pm]
+;W[ql]
+;B[ok]LB[jn:A][fo:D][hp:B][hq:C][lq:E]C[This result is actually decent for Black, but White has an decent moio and has some weak spots in Black's territory to attack.
+
+A and D aim at reducing Black’s moio
+B, C and E are directly invading that moio to destroy it
+
+White doesn’t have to play those moves for them to be dangerous.
+
+He could threaten to play them, by playing near those moves and thus force Black to
+waste some of his moves to defend the weak points.])
+(;W[pn]C[White could aim to expand towards the center, after Black’s response.]
+;B[on]
+;W[om]
+;B[qo]
+;W[ro]
+;B[rp]
+;W[rn]
+;B[oo]
+;W[nm]LB[qh:F][jn:A][fo:D][mo:E][hp:B][hq:C]C[By the end of this joseki Black has a very solid lower right corner and White has a wall, but 
+Black cannot be complacent despite the territory he gained.
+
+It has almost the same weakeness from the previous variation.
+
+Even though E changed to a reducing move, rather than a direct invasion.
+
+White can also play F and try to capitalize on his wall and later approach Black’s corner.]))
