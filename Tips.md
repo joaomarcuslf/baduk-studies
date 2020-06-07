@@ -12,3 +12,5 @@
 3 - Extend to your own side, or push one of your opponents sides
 4 - Extend to anywhere side
 5 - Jump to the Center
+
+
