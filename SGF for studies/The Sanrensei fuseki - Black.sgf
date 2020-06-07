@@ -1,0 +1,70 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]C[San-ren-sei, which means “three star points in a row” and it is very different compared to the other fusekis.
+
+Its main difference is that the Sen-ren-sei does not create any sort of imbalance between our stones and it is perfectly symmetrical. 
+
+The second, and very important, difference is that it does not create any sort of trap either. 
+
+It is, as the name implies, three stones in a row, but those stones complement each other
+perfectly. Let us see what it is and how it works:]
+;B[pd]
+;W[dp]
+;B[pp]
+;W[dd]
+;B[pj]TR[qc][pf][qf][pn][qn][qq]SQ[nc][nd][np][nq]C[Tha main goal of the middle stone on Sanrensei is to provide symmetrical suport for both cornners.
+
+Where the Triangle is marked, are corner approaches that White won't have decent enough result to be consid-
+ered playable.
+
+Usually those approaches would be benefecial if the WHite player didn't like framework vs framework games, but with the Q10, those approaches will give good results for Black.
+
+]
+(;W[qn]LB[qo:B][nq:A]C[Simple Knight approach joseki for white.
+
+Black can either be peacefully with A and let A have an small group, or pressure White with B.
+
+In both cases White is so cramped in that small space that he is not alive yet and needs to fight to survive]N[Knight approach]
+(;B[nq]C[Black in this variation will play peacefully an play the balanced joseki,]
+;W[rp]
+;B[qq]
+;W[qk]
+;B[qj]C[The existence of the side star point allows Black to play the iron pillar at R10
+and box White in.])
+(;B[qo]C[Black in this variation will play aggressively an play the hane/kicking move joseki,]
+;W[pn]
+;B[nq]
+;W[qk]
+;B[qj]C[Now White is even more pressured from both sides.]))
+(;W[pn]C[If White approaches on the fourth line.]N[One space jump approach]
+;B[np]
+;W[qp]
+;B[qq]
+;W[qo]
+;B[rq]
+;W[qk]
+;B[qj]LB[sn:A]C[White appears to have more room to breathe, but it is an illusion
+
+Black stone at S3 provides to Black the ability to play
+the monkey jump at A and destroy most of
+White’s eye space
+
+The iron pillar at R10 is still looming on the side of the White group and the only 
+solution to avoid being surrounded is to start jumping out towards the center, 
+giving more influence and territory to Black.
+
+This is a terrible result for White.
+
+Look at Black. He already has a secured corner and all his stones are either connecting or
+facing each other, working together. White in comparison has two corners ready to be 
+approached and a weak group that needs to run])
+(;W[qq]N[3-3 invasion]
+;B[qp]
+;W[pq]
+;B[oq]
+;W[or]
+;B[nq]
+;W[nr]
+;B[mq]
+;W[mr]
+;B[lq]C[Even with the 3-3 invasion, Black stone at Q10 limit where WHite can play next as he won't have much room to pince or create base at this side.]))
