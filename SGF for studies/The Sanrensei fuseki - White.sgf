@@ -1,0 +1,59 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]
+;B[pd]
+;W[dp]
+;B[pp]
+;W[dd]
+;B[pj]C[So white on sanrensei should approach for the right side to have better results.]
+;W[nq]LB[pn:C][qn:D][np:B][lq:A]C[Black has four usual choices:
+
+Choice A is the pincer and it leads to Black losing the corner, but gaining a wall, 
+which might be a good idea, but White keeps sente and can approach the other corner 
+of the Sanrensei immediately.
+
+Choice B the attachment joseki which is aiming to gain the corner and a small wall, but White also keeps sente.
+
+And choices C and D, which are similar, designed to secure as much territory as possible and l
+ead the game to a framework battle which, at this point, would be in favour of Black, since he would end any varia-
+tion of those joseki in sente for him.]
+(;B[qn]C[In this variation Black chooses to play the normal joseki form Knight approach.]
+;W[pr]
+;B[qq]
+;W[kq]LB[fc:A][nc:F][cf:B][cj:D][dj:E][cn:C]C[After both players finish the joseki, Black now has sente, and gets to decide
+what kind of game is going to be played.
+
+If Black chooses A or F then this game is going to be a framework battle for the sides and the center, with Black
+being slightly ahead due to the San-ren-sei.
+
+If Black chooses B, C, D or E, then the frameworks are being split and the game is going to be oriented more on
+local battles, with a focus on invasions and heavy fighting.])
+(;B[np]C[Attachment joseki is choosen in this variation.
+
+It isn't the best result for Black.]
+;W[mp]
+;B[no]
+;W[oq]
+;B[pq]
+;W[kq]
+;B[pn]TR[lq][mq][lr][mr][nr][ls][ms][ns]SQ[qk][rk][sk][ql][rl][sl][qm][rm][sm][qn][rn][sn][qo][ro][so][qp][rp][sp][qq][rq][sq][rr][sr][rs][ss]C[If Black plays the attachment joseki White keeps sente and he can approach the other corner of the San-ren-sei. 
+
+The square marked points are what Black can consider as almost solid territory, since his stones are very thick and
+invading seems daunting. On the other hand the triangle marked points are what White got out of this exchange.
+
+At first glance this seems like a great result for Black, but since White still has sente, the effect is diminished because
+White can play a San-ren-sei of his own at A now, placing the pressure on Black to attack that same fuseki.
+])
+(;B[lq]C[In this variation, Black will pincer White. Bus as this isn't the direction of the Sanrensei, it will leave weakness at Black's shape.]
+;W[qq]
+;B[qp]
+;W[pq]
+;B[op]
+;W[nr]
+;B[mo]LB[dj:D][mj:C][np:A][rp:B]C[After the joseki, White has sente, an has several weakness on Black's shape that can later be exploited.
+
+A and B are Weakness, and can be played later.
+
+C in a reduction of Black influence
+
+D is White's Sanrensei]))
