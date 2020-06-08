@@ -1,10 +1,18 @@
 # Tips for Go players at any level
 
 ## Usual terms
+- Tesuji: a skilful tactical move
+- Sente: a move that must be answered or an unacceptable loss will be suffered
+- Sabaki: making light flexible shape in order to save a group
+- Ponnuki: the shape made when a stone is captured by four enemy stones
 - Nobi or Extension: When you connect your stone with another
-- Moio or Framework: Potential Territory
+- Moyo or Framework: Potential Territory
+- Miai: points of exchange; interchangeable point
+- Joseki: a set sequence of moves, usually in the opening. Locally they are the best moves for each side
 - Hane: When you play the diagonal of some other stone
-- Tenuki: Play somewhere else out of the current situation
+- Gote: a move not requiring an answer; losing the initiative
+- Fuseki: the opening moves of the game (usually defined as lasting until the first fight begins)
+- Aji: potential (options, possibilities)
 
 ## Opening order
 
